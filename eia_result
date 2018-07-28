@@ -1,0 +1,772 @@
+[Command: python -u 'C:\Users\Collin Lee\Documents\Atom\Nousot\EnergyDataProject\scraping_program.py']
+Currently on https://www.eia.gov/.
+parsed page
+dropdown not found
+more links found
+number of output data: 0
+Currently on https://twitter.com/EIAgov.
+parsed page
+dropdown not found
+more links found
+number of output data: 1
+Currently on https://www.facebook.com/eiagov.
+parsed page
+dropdown not found
+more links found
+number of output data: 2
+Currently on #.
+invalid url
+number of output data: 2
+Currently on #nav-sources.
+invalid url
+number of output data: 2
+Currently on #nav-geography.
+invalid url
+number of output data: 2
+Currently on #nav-learn.
+invalid url
+number of output data: 2
+Currently on /petroleum/.
+invalid url
+number of output data: 2
+Currently on /petroleum/supply/weekly/.
+invalid url
+number of output data: 2
+Currently on http://ir.eia.gov/ngs/ngs.html.
+parsed page
+dropdown not found
+more links found
+number of output data: 2
+Currently on /electricity/.
+invalid url
+number of output data: 2
+Currently on /electricity/data/browser/.
+invalid url
+number of output data: 2
+Currently on /consumption/residential/.
+invalid url
+number of output data: 2
+Currently on /coal/.
+invalid url
+number of output data: 2
+Currently on /beta/coal/data/browser/.
+invalid url
+number of output data: 2
+Currently on /renewable/afv/.
+invalid url
+number of output data: 2
+Currently on /nuclear/outages/.
+invalid url
+number of output data: 2
+Currently on /totalenergy/data/monthly/.
+invalid url
+number of output data: 2
+Currently on /analysis/.
+invalid url
+number of output data: 2
+Currently on /outlooks/aeo/.
+invalid url
+number of output data: 2
+Currently on /finance/.
+invalid url
+number of output data: 2
+Currently on /finance/markets/crudeoil/.
+invalid url
+number of output data: 2
+Currently on /environment/emissions/carbon/.
+invalid url
+number of output data: 2
+Currently on /state/.
+invalid url
+number of output data: 2
+Currently on /maps/.
+invalid url
+number of output data: 2
+Currently on /special/gulf_of_mexico/.
+invalid url
+number of output data: 2
+Currently on /beta/international/.
+invalid url
+number of output data: 2
+Currently on /tools/glossary/.
+invalid url
+number of output data: 2
+Currently on /beta/api/.
+invalid url
+number of output data: 2
+Currently on http://facebook.com/eiagov/.
+parsed page
+dropdown not found
+more links found
+number of output data: 2
+Currently on http://youtube.com/eiagov/.
+parsed page
+dropdown not found
+more links found
+number of output data: 2
+Currently on https://www.linkedin.com/company/u-s-energy-information-administration.
+parsed page
+dropdown not found
+more links found
+number of output data: 2
+Currently on /survey/.
+invalid url
+number of output data: 2
+Currently on /tools/rssfeeds/.
+invalid url
+number of output data: 2
+Currently on /energyexplained/.
+invalid url
+number of output data: 2
+Currently on /energyexplained/index.cfm?page=about_energy_units.
+invalid url
+number of output data: 2
+Currently on /energyexplained/index.cfm?page=environment_home.
+invalid url
+number of output data: 2
+Currently on /energyexplained/index.cfm?page=hgls_home.
+invalid url
+number of output data: 2
+Currently on /energyexplained/index.cfm?page=coal_home.
+invalid url
+number of output data: 2
+Currently on /energyexplained/index.cfm?page=electricity_home.
+invalid url
+number of output data: 2
+Currently on /energyexplained/index.cfm?page=biofuel_home.
+invalid url
+number of output data: 2
+Currently on /energyexplained/index.cfm?page=geothermal_home.
+invalid url
+number of output data: 2
+Currently on /kids/energy.cfm?page=6.
+invalid url
+number of output data: 2
+Currently on /tools/faqs/#coal.
+invalid url
+number of output data: 2
+Currently on /tools/faqs/#crudeoil.
+invalid url
+number of output data: 2
+Currently on /tools/faqs/#electricity.
+invalid url
+number of output data: 2
+Currently on /tools/faqs/index.cfm#gasoline.
+invalid url
+number of output data: 2
+Currently on /tools/faqs/index.cfm#naturalgas.
+invalid url
+number of output data: 2
+Currently on /tools/faqs/index.cfm#prices.
+invalid url
+number of output data: 2
+Currently on /kids/.
+invalid url
+number of output data: 2
+Currently on /electricity/wholesale/.
+invalid url
+number of output data: 2
+Currently on /pressroom/.
+invalid url
+number of output data: 2
+Currently on /pressroom/testimony.php.
+invalid url
+number of output data: 2
+Currently on /pressroom/events/.
+invalid url
+number of output data: 2
+Currently on /reports/upcoming.php.
+invalid url
+number of output data: 2
+Currently on /petroleum/production/.
+invalid url
+number of output data: 2
+Currently on /analysis/transportationfuels/padd1n3/.
+invalid url
+number of output data: 2
+Currently on /special/disruptions/socal/winter/.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/index.cfm?id=b.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/index.cfm?id=d.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/index.cfm?id=f.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/index.cfm?id=h.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/index.cfm?id=j.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/index.cfm?id=l.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/index.cfm?id=n.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/index.cfm?id=p.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/index.cfm?id=r.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/index.cfm?id=t.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/index.cfm?id=v.
+invalid url
+number of output data: 2
+Currently on /tools/a-z/index.cfm?id=xyz.
+invalid url
+number of output data: 2
+Currently on /petroleum/drilling/.
+invalid url
+number of output data: 2
+Currently on /consumption/residential/data/2015/index.php?view=consumption.
+invalid url
+number of output data: 2
+Currently on /renewable/annual/solar_photo/.
+invalid url
+number of output data: 2
+Currently on /todayinenergy/detail.cfm?id=36752.
+invalid url
+number of output data: 2
+Currently on http://www.eia.gov/dnav/ng/hist/rngc1d.htm.
+parsed page
+dropdown not found
+more links found
+number of output data: 2
+Currently on http://www.eia.gov/cneaf/coal/weekly/weekly_html/wcpweek.html.
+parsed page
+dropdown not found
+more links found
+number of output data: 3
+Currently on /pressroom/presentations/capuano_07242018.pdf.
+invalid url
+number of output data: 3
+Currently on pressroom/.
+invalid url
+number of output data: 3
+Currently on /countries/.
+invalid url
+number of output data: 3
+Currently on /about/especiallyfor/analysts.php.
+invalid url
+number of output data: 3
+Currently on /about/especiallyfor/employees.php.
+invalid url
+number of output data: 3
+Currently on /about/.
+invalid url
+number of output data: 3
+Currently on /environment.
+invalid url
+number of output data: 3
+Currently on /about/privacy_security_policy.cfm.
+invalid url
+number of output data: 3
+Currently on /about/accessability.cfm.
+invalid url
+number of output data: 3
+Currently on https://www.usa.gov/.
+parsed page
+dropdown not found
+more links found
+number of output data: 3
+Currently on http://linkedin.com/company/u-s-energy-information-administration.
+parsed page
+dropdown not found
+more links found
+number of output data: 3
+Currently on /.
+invalid url
+number of output data: 3
+Currently on .
+invalid url
+number of output data: 3
+Currently on None.
+invalid url
+number of output data: 3
+Currently on .
+invalid url
+number of output data: 3
+Currently on None.
+invalid url
+number of output data: 3
+Currently on #supported_languages.
+invalid url
+number of output data: 3
+Currently on ?lang=msa.
+invalid url
+number of output data: 3
+Currently on ?lang=cs.
+invalid url
+number of output data: 3
+Currently on ?lang=de.
+invalid url
+number of output data: 3
+Currently on ?lang=es.
+invalid url
+number of output data: 3
+Currently on ?lang=fr.
+invalid url
+number of output data: 3
+Currently on ?lang=it.
+invalid url
+number of output data: 3
+Currently on ?lang=nl.
+invalid url
+number of output data: 3
+Currently on ?lang=pl.
+invalid url
+number of output data: 3
+Currently on ?lang=ro.
+invalid url
+number of output data: 3
+Currently on ?lang=fi.
+invalid url
+number of output data: 3
+Currently on ?lang=vi.
+invalid url
+number of output data: 3
+Currently on ?lang=el.
+invalid url
+number of output data: 3
+Currently on ?lang=ru.
+invalid url
+number of output data: 3
+Currently on ?lang=uk.
+invalid url
+number of output data: 3
+Currently on ?lang=ar.
+invalid url
+number of output data: 3
+Currently on ?lang=mr.
+invalid url
+number of output data: 3
+Currently on ?lang=bn.
+invalid url
+number of output data: 3
+Currently on ?lang=ta.
+invalid url
+number of output data: 3
+Currently on ?lang=th.
+invalid url
+number of output data: 3
+Currently on ?lang=ja.
+invalid url
+number of output data: 3
+Currently on ?lang=zh-tw.
+invalid url
+number of output data: 3
+Currently on /account/begin_password_reset.
+invalid url
+number of output data: 3
+Currently on https://pbs.twimg.com/profile_images/489460437214171136/x9Ca1CfZ_400x400.jpeg.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+parsed page
+dropdown not found
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+more links found
+number of output data: 3
+Currently on /EIAgov.
+invalid url
+number of output data: 3
+Currently on None.
+invalid url
+number of output data: 3
+Currently on /EIAgov/followers.
+invalid url
+number of output data: 3
+Currently on /EIAgov/lists.
+invalid url
+number of output data: 3
+Currently on /EIAgov/likes.
+invalid url
+number of output data: 3
+Currently on /EIAgov.
+invalid url
+number of output data: 3
+Currently on /EIAgov.
+invalid url
+number of output data: 3
+Currently on /EIAgov/media.
+invalid url
+number of output data: 3
+Currently on /EIAgov/with_replies.
+invalid url
+number of output data: 3
+Currently on /EIAgov.
+invalid url
+number of output data: 3
+Currently on /hashtag/WeeklyPetroleumStatusReport?src=hash.
+invalid url
+number of output data: 3
+Currently on /hashtag/oil?src=hash.
+invalid url
+number of output data: 3
+Currently on /hashtag/propane?src=hash.
+invalid url
+number of output data: 3
+Currently on /EIAgov.
+invalid url
+number of output data: 3
+Currently on /CSISEnergy/status/1021880358281928704.
+invalid url
+number of output data: 3
+Currently on /KAPSARC.
+invalid url
+number of output data: 3
+Currently on /CSISEnergy.
+invalid url
+number of output data: 3
+Currently on https://t.co/n71iJCKnTX.
+parsed page
+dropdown not found
+more links found
+number of output data: 3
+Currently on /EIAgov/status/1022115502049570816.
+invalid url
+number of output data: 3
+Currently on /hashtag/electricity?src=hash.
+invalid url
+number of output data: 3
+Currently on https://t.co/jaFNIycmIK.
+parsed page
+dropdown found
+more links found
+number of output data: 4
+Currently on /EIAgov.
+invalid url
+number of output data: 4
+Currently on /hashtag/TodayInEnergy?src=hash.
+invalid url
+number of output data: 4
+Currently on https://t.co/D6M89yh0QZ.
+parsed page
+dropdown not found
+more links found
+number of output data: 4
+Currently on /hashtag/IEO2018?src=hash.
+invalid url
+number of output data: 4
+Currently on /EIAgov.
+invalid url
+number of output data: 4
+Currently on /hashtag/TriviaTuesday?src=hash.
+invalid url
+number of output data: 4
+Currently on /hashtag/electricity?src=hash.
+invalid url
+number of output data: 4
+Currently on /hashtag/energy?src=hash.
+invalid url
+number of output data: 4
+Currently on /hashtag/RECS?src=hash.
+invalid url
+number of output data: 4
+Currently on /EIAgov.
+invalid url
+number of output data: 4
+Currently on /hashtag/TriviaTuesday?src=hash.
+invalid url
+number of output data: 4
+Currently on /EIAgov.
+invalid url
+number of output data: 4
+Currently on /hashtag/Africa?src=hash.
+invalid url
+number of output data: 4
+Currently on /hashtag/IEO2018?src=hash.
+invalid url
+number of output data: 4
+Currently on /hashtag/CSISLive?src=hash.
+invalid url
+number of output data: 4
+Currently on /EIAgov.
+invalid url
+number of output data: 4
+Currently on /hashtag/GDP?src=hash.
+invalid url
+number of output data: 4
+Currently on /hashtag/India?src=hash.
+invalid url
+number of output data: 4
+Currently on https://t.co/i9oADdh1NW.
+parsed page
+dropdown found
+no data
+more links found
+number of output data: 4
+Currently on /hashtag/China?src=hash.
+invalid url
+number of output data: 4
+Currently on /EIAgov.
+invalid url
+number of output data: 4
+Currently on /hashtag/IEO2018?src=hash.
+invalid url
+number of output data: 4
+Currently on /hashtag/energy?src=hash.
+invalid url
+number of output data: 4
+Currently on /hashtag/CSISLive?src=hash.
+invalid url
+number of output data: 4
+Currently on /EIAgov.
+invalid url
+number of output data: 4
+Currently on /hashtag/energy?src=hash.
+invalid url
+number of output data: 4
+Currently on /hashtag/IEO2018?src=hash.
+invalid url
+number of output data: 4
+Currently on /hashtag/CSISLive?src=hash.
+invalid url
+number of output data: 4
+Currently on /hashtag/naturalgas?src=hash.
+invalid url
+number of output data: 4
+Currently on https://t.co/ppd7HZd6yG.
+parsed page
+dropdown not found
+more links found
+number of output data: 4
+Currently on /EIAgov/status/1021745865491468288.
+invalid url
+number of output data: 4
+Currently on https://t.co/i9oADdh1NW.
+parsed page
+dropdown found
+no data
+more links found
+number of output data: 4
+Currently on /hashtag/EmergingMarkets?src=hash.
+invalid url
+number of output data: 4
+Currently on /EIAgov.
+invalid url
+number of output data: 4
+Currently on /hashtag/energy?src=hash.
+invalid url
+number of output data: 4
+Currently on https://t.co/i9oADdh1NW.
+parsed page
+dropdown found
+no data
+more links found
+number of output data: 4
+opened links: ['https://twitter.com/EIAgov', None, '/', '#menu', '#nav-topics', '#nav-tools', '#nav-news', '/petroleum/weekly/', '/naturalgas/', '/naturalgas/weekly/', '/electricity/monthly/', '/consumption/', '/consumption/commercial/', '/coal/production/quarterly/', '/renewable/', '/nuclear/', '/totalenergy/', '/totalenergy/data/annual/', '/outlooks/steo/', '/outlooks/ieo/', '/finance/data.php', '/environment/', '/environment/emissions/state/analysis/', '/state/seds/', '/state/maps.php', '/special/disruptions/', '/beta/international/data/browser/', '/tools/', '/beta', 'http://twitter.com/eiagov/', 'https://www.flickr.com/photos/eiagov/', '/reports/', '/tools/emailupdates/', '/todayinenergy/', '/energyexplained/index.cfm?page=about_home', '/energyexplained/index.cfm?page=us_energy_use', '/energyexplained/index.cfm?page=oil_home', '/energyexplained/index.cfm?page=natural_gas_home', '/energyexplained/index.cfm?page=nuclear_home', '/energyexplained/index.cfm?page=hydropower_home', '/energyexplained/index.cfm?page=wind_home', '/energyexplained/index.cfm?page=solar_home', '/tools/faqs/', '/tools/faqs/#conversion equivalents', '/tools/faqs/#diesel', '/tools/faqs/#environment', '/tools/faqs/index.cfm#generalenergy', '/tools/faqs/index.cfm#nuclear', '/tools/faqs/index.cfm#renewables', '/about/new/', '/beta/international/analysis.php?iso=KOR', '/pressroom/releases.php', '/pressroom/presentations.php', '/pressroom/radio/', '/naturalgas/monthly/', '/analysis/transportationfuels/padd2n4/', '/analysis/transportationfuels/padd5/', '/outlooks/archive/aeo16/section_issues.cfm#cpp', '/tools/a-z/index.cfm?id=a', '/tools/a-z/index.cfm?id=c', '/tools/a-z/index.cfm?id=e', '/tools/a-z/index.cfm?id=g', '/tools/a-z/index.cfm?id=i', '/tools/a-z/index.cfm?id=k', '/tools/a-z/index.cfm?id=m', '/tools/a-z/index.cfm?id=o', '/tools/a-z/index.cfm?id=q', '/tools/a-z/index.cfm?id=s', '/tools/a-z/index.cfm?id=u', '/tools/a-z/index.cfm?id=w', 'https://www.csis.org/events/eias-international-energy-outlook-2018', '/petroleum/marketing/monthly/', '/petroleum/ethanolcapacity/index.php', '/outlooks/aeo/retrospective/', 'http://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RCLC1&f=D', 'http://www.eia.gov/petroleum/gasdiesel/', '/beta/realtime_grid/', '/pressroom/testimonies/maples_03072018.pdf', '/petroleum/gasdiesel/', '/about/careers/', '/kids/energy.php?page=6', '/developer/', '/about/contact/', '/beta/', '/about/copyrights_reuse.cfm', 'https://www.energy.gov/', 'https://fedstats.sites.usa.gov/', '#timeline', '/i/moments', '', '', None, None, '?lang=id', '?lang=ca', '?lang=da', '?lang=en-gb', '?lang=fil', '?lang=hr', '?lang=hu', '?lang=no', '?lang=pt', '?lang=sk', '?lang=sv', '?lang=tr', '?lang=bg', '?lang=sr', '?lang=he', '?lang=fa', '?lang=hi', '?lang=gu', '?lang=kn', '?lang=ko', '?lang=zh-cn', '/login', 'https://twitter.com/signup', 'https://pbs.twimg.com/profile_images/489460437214171136/x9Ca1CfZ.jpeg', '/EIAgov', '/EIAgov/following', '/EIAgov/likes', '#more', '/EIAgov/lists', '/help/verified', 'http://t.co/VPNpQ1ASOa', '/EIAgov/media', '/EIAgov/media', '/EIAgov/status/1022126892877524992', 'https://t.co/77zgl4tm3h', '/hashtag/gasoline?src=hash', '/hashtag/ethanol?src=hash', '/CSISEnergy', '/EIAgov', '/CGDev', 'https://t.co/WJ7catX5N5', '/EIAgov', '/hashtag/ElectricityMonthlyUpdate?src=hash', '/hashtag/retailchoice?src=hash', 'https://t.co/mXMNkOKaYb', '/EIAgov/status/1022089942523097088', '/hashtag/energy?src=hash', '/hashtag/China?src=hash', 'https://t.co/rrPG2CpVG4', '/EIAgov/status/1021832639400091649', '/hashtag/South?src=hash', '/hashtag/naturalgas?src=hash', 'https://t.co/ko4xyR5bXP', 'https://t.co/Gy2Qi0pKE2', '/EIAgov/status/1021787345903923200', '/hashtag/electricity?src=hash', '/EIAgov/status/1021749075920777221', '/hashtag/manufacturing?src=hash', 'https://t.co/i9oADdh1NW', 'https://t.co/31HaXl2Ind', '/EIAgov/status/1021748797146320897', '/hashtag/IEO2018?src=hash', '/hashtag/energy?src=hash', '/hashtag/CSISLive?src=hash', 'https://t.co/pGd5zkOk8d', '/EIAgov/status/1021748096743690241', '/hashtag/China?src=hash', 'https://t.co/i9oADdh1NW', 'https://t.co/oxFJEAsO47', '/EIAgov/status/1021746213119504384', '/hashtag/coal?src=hash', 'https://t.co/i9oADdh1NW', '/hashtag/petroleum?src=hash', '/hashtag/renewables?src=hash', '/EIAgov', '/hashtag/IEO2018?src=hash', '/hashtag/CSISLive?src=hash', 'https://t.co/8Tp3fnMscu', '/EIAgov/status/1021745490315161602', '/hashtag/IEO2018?src=hash', '/hashtag/CSISLive?src=hash']
+output data: {'sms_codes':                                                     0         1  \
+0                                       United States     40404
+1                                              Canada     21212
+2                                      United Kingdom     86444
+3                                              Brazil     40404
+4                                               Haiti     40404
+5                                             Ireland     51210
+6                                               India     53000
+7                                           Indonesia     89887
+8                                               Italy   4880804
+9                                          3424486444  Vodafone
+10  \n        � See SMS short codes for other coun...       NaN
+
+                                         2
+0                                    (any)
+1                                    (any)
+2                  Vodafone, Orange, 3, O2
+3                              Nextel, TIM
+4                           Digicel, Voila
+5                             Vodafone, O2
+6        Bharti Airtel, Videocon, Reliance
+7   AXIS, 3, Telkomsel, Indosat, XL Axiata
+8                                     Wind
+9                                      NaN
+10                                     NaN  , 'no table id':                 0        1        2        3
+0         Alabama    9,643   13,193   16,377
+1          Alaska      932    1,177    1,502
+2         Arizona    5,423    6,805    8,051
+3        Arkansas       49       91       94
+4        Colorado   12,634   18,879   24,007
+5        Illinois   43,575   56,227   58,025
+6         Indiana   28,767   34,295   39,267
+7          Kansas       27      199       66
+8        Kentucky   42,881   61,434   77,468
+9       Louisiana    2,798    3,439    2,605
+10       Maryland    1,616    1,922    1,978
+11    Mississippi    2,870    3,143    3,737
+12       Missouri      234      138      363
+13        Montana   32,336   41,864   44,562
+14     New Mexico   13,341   19,679   21,963
+15   North Dakota   28,121   28,802   29,157
+16           Ohio   12,564   17,041   22,258
+17       Oklahoma      654      780      904
+18   Pennsylvania   45,885   50,872   61,877
+19      Tennessee      644      897      839
+20          Texas   39,001   35,918   43,654
+21           Utah   13,970   14,419   17,934
+22       Virginia   13,359   14,321   15,507
+23  West Virginia   79,823   95,633  112,187
+24        Wyoming  297,218  375,773  395,665, 'production-data':                 0        1        2        3
+0         Alabama    9,643   13,193   16,377
+1          Alaska      932    1,177    1,502
+2         Arizona    5,423    6,805    8,051
+3        Arkansas       49       91       94
+4        Colorado   12,634   18,879   24,007
+5        Illinois   43,575   56,227   58,025
+6         Indiana   28,767   34,295   39,267
+7          Kansas       27      199       66
+8        Kentucky   42,881   61,434   77,468
+9       Louisiana    2,798    3,439    2,605
+10       Maryland    1,616    1,922    1,978
+11    Mississippi    2,870    3,143    3,737
+12       Missouri      234      138      363
+13        Montana   32,336   41,864   44,562
+14     New Mexico   13,341   19,679   21,963
+15   North Dakota   28,121   28,802   29,157
+16           Ohio   12,564   17,041   22,258
+17       Oklahoma      654      780      904
+18   Pennsylvania   45,885   50,872   61,877
+19      Tennessee      644      897      839
+20          Texas   39,001   35,918   43,654
+21           Utah   13,970   14,419   17,934
+22       Virginia   13,359   14,321   15,507
+23  West Virginia   79,823   95,633  112,187
+24        Wyoming  297,218  375,773  395,665, 'https://go.usa.gov/xUEW7\xa0':                                                                                0  \
+July 2018                              0     Total net generation (thousand MWh)
+                                       1    Residential retail price (cents/kwh)
+                                       2             Retail sales (thousand MWh)
+                                       3                     Cooling degree-days
+                                       4  Natural gas price, Henry Hub ($/mmBtu)
+                                       5             Coal stocks (thousand tons)
+                                       6        Coal consumption (thousand tons)
+                                       7           Natural gas consumption (Mcf)
+                                       8   Nuclear net generation (thousand MWh)
+June 2018                              0     Total net generation (thousand MWh)
+                                       1    Residential retail price (cents/kwh)
+                                       2             Retail sales (thousand MWh)
+                                       3                     Cooling degree-days
+                                       4  Natural gas price, Henry Hub ($/mmBtu)
+                                       5             Coal stocks (thousand tons)
+                                       6        Coal consumption (thousand tons)
+                                       7           Natural gas consumption (Mcf)
+                                       8   Nuclear net generation (thousand MWh)
+May 2018                               0     Total net generation (thousand MWh)
+                                       1    Residential retail price (cents/kwh)
+                                       2             Retail sales (thousand MWh)
+                                       3                     Cooling degree-days
+                                       4  Natural gas price, Henry Hub ($/mmBtu)
+                                       5             Coal stocks (thousand tons)
+                                       6        Coal consumption (thousand tons)
+                                       7           Natural gas consumption (Mcf)
+                                       8   Nuclear net generation (thousand MWh)
+April 2018                             0     Total net generation (thousand MWh)
+                                       1    Residential retail price (cents/kwh)
+                                       2             Retail sales (thousand MWh)
+...                                                                          ...
+July 2017                              6        Coal consumption (thousand tons)
+                                       7           Natural gas consumption (Mcf)
+                                       8   Nuclear net generation (thousand MWh)
+June 2017                              0     Total net generation (thousand MWh)
+                                       1    Residential retail price (cents/kwh)
+                                       2             Retail sales (thousand MWh)
+                                       3                     Cooling degree-days
+                                       4  Natural gas price, Henry Hub ($/mmBtu)
+                                       5             Coal stocks (thousand tons)
+                                       6        Coal consumption (thousand tons)
+                                       7           Natural gas consumption (Mcf)
+                                       8   Nuclear net generation (thousand MWh)
+Previous issues                        0     Total net generation (thousand MWh)
+                                       1    Residential retail price (cents/kwh)
+                                       2             Retail sales (thousand MWh)
+                                       3                     Cooling degree-days
+                                       4  Natural gas price, Henry Hub ($/mmBtu)
+                                       5             Coal stocks (thousand tons)
+                                       6        Coal consumption (thousand tons)   
+                                       7           Natural gas consumption (Mcf)
+                                       8   Nuclear net generation (thousand MWh)
+Electric Power Monthly Flash Estimates 0     Total net generation (thousand MWh)
+                                       1    Residential retail price (cents/kwh)
+                                       2             Retail sales (thousand MWh)
+                                       3                     Cooling degree-days
+                                       4  Natural gas price, Henry Hub ($/mmBtu)
+                                       5             Coal stocks (thousand tons)
+                                       6        Coal consumption (thousand tons)
+                                       7           Natural gas consumption (Mcf)
+                                       8   Nuclear net generation (thousand MWh)
+
+                                                1       2
+July 2018                              0  339,056    5.4%
+                                       1    13.15    1.1%
+                                       2  297,299    2.7%
+                                       3      141   31.8%
+                                       4     2.89  -10.4%
+                                       5  128,440  -20.9%
+                                       6   47,563   -6.5%
+                                       7  867,336   19.9%
+                                       8   67,320    9.8%
+June 2018                              0  339,056    5.4%
+                                       1    13.15    1.1%
+                                       2  297,299    2.7%
+                                       3      141   31.8%
+                                       4     2.89  -10.4%
+                                       5  128,440  -20.9%
+                                       6   47,563   -6.5%
+                                       7  867,336   19.9%
+                                       8   67,320    9.8%
+May 2018                               0  339,056    5.4%
+                                       1    13.15    1.1%
+                                       2  297,299    2.7%
+                                       3      141   31.8%
+                                       4     2.89  -10.4%
+                                       5  128,440  -20.9%
+                                       6   47,563   -6.5%
+                                       7  867,336   19.9%
+                                       8   67,320    9.8%
+April 2018                             0  339,056    5.4%
+                                       1    13.15    1.1%
+                                       2  297,299    2.7%
+...                                           ...     ...
+July 2017                              6   47,563   -6.5%
+                                       7  867,336   19.9%
+                                       8   67,320    9.8%
+June 2017                              0  339,056    5.4%
+                                       1    13.15    1.1%
+                                       2  297,299    2.7%
+                                       3      141   31.8%
+                                       4     2.89  -10.4%
+                                       5  128,440  -20.9%
+                                       6   47,563   -6.5%
+                                       7  867,336   19.9%
+                                       8   67,320    9.8%
+Previous issues                        0  339,056    5.4%
+                                       1    13.15    1.1%
+                                       2  297,299    2.7%
+                                       3      141   31.8%
+                                       4     2.89  -10.4%
+                                       5  128,440  -20.9%
+                                       6   47,563   -6.5%
+                                       7  867,336   19.9%
+                                       8   67,320    9.8%
+Electric Power Monthly Flash Estimates 0  339,056    5.4%
+                                       1    13.15    1.1%
+                                       2  297,299    2.7%
+                                       3      141   31.8%
+                                       4     2.89  -10.4%
+                                       5  128,440  -20.9%
+                                       6   47,563   -6.5%
+                                       7  867,336   19.9%
+                                       8   67,320    9.8%
+
+[144 rows x 3 columns]}
+Traceback (most recent call last):
+  File "C:\Users\Collin Lee\Documents\Atom\Nousot\EnergyDataProject\scraping_program.py", line 151, in <module>
+    print(output_data[0])
+KeyError: 0

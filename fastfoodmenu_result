@@ -1,0 +1,1302 @@
+[Command: python -u 'C:\Users\Collin Lee\Documents\Atom\Nousot\EnergyDataProject\scraping_program.py']
+Currently on https://www.fastfoodmenuprices.com/all-restaurants/.
+parsed page
+dropdown not found
+more links found
+number of output data: 0
+Currently on #content.
+invalid url
+number of output data: 0
+Currently on https://www.fastfoodmenuprices.com/amys-drive-through-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 1
+Currently on https://www.fastfoodmenuprices.com/arbys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 2
+Currently on https://www.fastfoodmenuprices.com/bob-evans-farmhouse-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 3
+Currently on https://www.fastfoodmenuprices.com/bonefish-grill-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 4
+Currently on https://www.fastfoodmenuprices.com/captain-ds-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 5
+Currently on https://www.fastfoodmenuprices.com/cheddars-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 6
+Currently on https://www.fastfoodmenuprices.com/chilis-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 7
+Currently on https://www.fastfoodmenuprices.com/churchs-chicken-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 8
+Currently on https://www.fastfoodmenuprices.com/cracker-barrel-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 9
+Currently on https://www.fastfoodmenuprices.com/dairy-queen-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 10
+Currently on https://www.fastfoodmenuprices.com/dominos-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 11
+Currently on https://www.fastfoodmenuprices.com/el-pollo-loco-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 12
+Currently on https://www.fastfoodmenuprices.com/five-guys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 13
+Currently on https://www.fastfoodmenuprices.com/hardees-carls-jr-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 14
+Currently on https://www.fastfoodmenuprices.com/ihop-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 15
+Currently on https://www.fastfoodmenuprices.com/jack-in-the-box-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 16
+Currently on https://www.fastfoodmenuprices.com/kfc-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 17
+Currently on https://www.fastfoodmenuprices.com/little-caesars-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 18
+Currently on https://www.fastfoodmenuprices.com/mcdonalds-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 19
+Currently on https://www.fastfoodmenuprices.com/outback-steakhouse-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 20
+Currently on https://www.fastfoodmenuprices.com/panera-bread-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 21
+Currently on https://www.fastfoodmenuprices.com/papa-johns-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 22
+Currently on https://www.fastfoodmenuprices.com/pei-wei-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 23
+Currently on https://www.fastfoodmenuprices.com/pollo-tropical-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 24
+Currently on https://www.fastfoodmenuprices.com/qdoba-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 25
+Currently on https://www.fastfoodmenuprices.com/raising-canes-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 26
+Currently on https://www.fastfoodmenuprices.com/red-robin-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 27
+Currently on https://www.fastfoodmenuprices.com/starbucks-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 28
+Currently on https://www.fastfoodmenuprices.com/subway-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 29
+Currently on https://www.fastfoodmenuprices.com/texas-roadhouse-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 30
+Currently on https://www.fastfoodmenuprices.com/wendys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 31
+Currently on https://www.fastfoodmenuprices.com/white-castle-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 32
+Currently on https://www.fastfoodmenuprices.com/zaxbys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 33
+Currently on https://www.fastfoodmenuprices.com/applebees-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 33
+Currently on https://www.fastfoodmenuprices.com/chipotle-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 33
+Currently on https://www.fastfoodmenuprices.com/in-n-out-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 33
+Currently on https://www.fastfoodmenuprices.com/taco-bell-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 33
+Currently on https://www.fastfoodmenuprices.com/starbucks-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 33
+Currently on https://www.fastfoodmenuprices.com/whataburger-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 33
+Currently on https://www.fastfoodmenuprices.com/bojangles-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 34
+Currently on https://www.fastfoodmenuprices.com/captain-ds-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 35
+Currently on https://www.fastfoodmenuprices.com/chick-fil-a-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 36
+Currently on https://www.fastfoodmenuprices.com/churchs-chicken-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 37
+Currently on https://www.fastfoodmenuprices.com/dairy-queen-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 38
+Currently on https://www.fastfoodmenuprices.com/dominos-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 39
+Currently on https://www.fastfoodmenuprices.com/el-pollo-loco-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 40
+Currently on https://www.fastfoodmenuprices.com/hardees-carls-jr-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 41
+Currently on https://www.fastfoodmenuprices.com/in-n-out-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 42
+Currently on https://www.fastfoodmenuprices.com/jimmy-johns-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 43
+Currently on https://www.fastfoodmenuprices.com/little-caesars-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 44
+Currently on https://www.fastfoodmenuprices.com/panda-express-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 45
+Currently on https://www.fastfoodmenuprices.com/papa-johns-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 46
+Currently on https://www.fastfoodmenuprices.com/popeyes-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 47
+Currently on https://www.fastfoodmenuprices.com/raising-canes-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 48
+Currently on https://www.fastfoodmenuprices.com/sonic-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 49
+Currently on https://www.fastfoodmenuprices.com/subway-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 50
+Currently on https://www.fastfoodmenuprices.com/taco-bell-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 51
+Currently on https://www.fastfoodmenuprices.com/tim-hortons-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 52
+Currently on https://www.fastfoodmenuprices.com/whataburger-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 53
+Currently on https://www.fastfoodmenuprices.com/wingstop-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 54
+Currently on https://www.fastfoodmenuprices.com/aw-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 55
+Currently on https://www.fastfoodmenuprices.com/auntie-annes-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 56
+Currently on https://www.fastfoodmenuprices.com/baja-fresh-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 57
+Currently on https://www.fastfoodmenuprices.com/biggby-coffee-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 58
+Currently on https://www.fastfoodmenuprices.com/blimpie-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 59
+Currently on https://www.fastfoodmenuprices.com/boston-market-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 60
+Currently on https://www.fastfoodmenuprices.com/brueggers-bagels-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 61
+Currently on https://www.fastfoodmenuprices.com/burger-21-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 62
+Currently on https://www.fastfoodmenuprices.com/burgerville-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 63
+Currently on https://www.fastfoodmenuprices.com/capriottis-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 64
+Currently on https://www.fastfoodmenuprices.com/carvel-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 65
+Currently on https://www.fastfoodmenuprices.com/chicken-express-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 66
+Currently on https://www.fastfoodmenuprices.com/cinnabon-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 67
+Currently on https://www.fastfoodmenuprices.com/corner-bakery-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 68
+Currently on https://www.fastfoodmenuprices.com/costa-vida-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 69
+Currently on https://www.fastfoodmenuprices.com/dutch-bros-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 70
+Currently on https://www.fastfoodmenuprices.com/farmer-boys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 71
+Currently on https://www.fastfoodmenuprices.com/fazolis-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 72
+Currently on https://www.fastfoodmenuprices.com/foxs-pizza-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 73
+Currently on https://www.fastfoodmenuprices.com/freebirds-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 74
+Currently on https://www.fastfoodmenuprices.com/gigis-cupcakes-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 75
+Currently on https://www.fastfoodmenuprices.com/golden-chick-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 76
+Currently on https://www.fastfoodmenuprices.com/hopdoddy-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 77
+Currently on https://www.fastfoodmenuprices.com/imos-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 78
+Currently on https://www.fastfoodmenuprices.com/jasons-deli-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 79
+Currently on https://www.fastfoodmenuprices.com/jersey-mikes-subs-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 80
+Currently on https://www.fastfoodmenuprices.com/kona-ice-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 81
+Currently on https://www.fastfoodmenuprices.com/lees-famous-recipe-chicken-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 82
+Currently on https://www.fastfoodmenuprices.com/lyfe-kitchen-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 83
+Currently on https://www.fastfoodmenuprices.com/marcos-pizza-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 84
+Currently on https://www.fastfoodmenuprices.com/menchies-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 85
+Currently on https://www.fastfoodmenuprices.com/mooyah-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 86
+Currently on https://www.fastfoodmenuprices.com/noodles-company-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 87
+Currently on https://www.fastfoodmenuprices.com/oberweis-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 88
+Currently on https://www.fastfoodmenuprices.com/pancheros-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 89
+Currently on https://www.fastfoodmenuprices.com/penn-station-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 90
+Currently on https://www.fastfoodmenuprices.com/philly-connection-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 91
+Currently on https://www.fastfoodmenuprices.com/pie-five-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 92
+Currently on https://www.fastfoodmenuprices.com/pinkberry-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 93
+Currently on https://www.fastfoodmenuprices.com/pizza-factory-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 94
+Currently on https://www.fastfoodmenuprices.com/pizza-patron-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 95
+Currently on https://www.fastfoodmenuprices.com/pizzarev-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 96
+Currently on https://www.fastfoodmenuprices.com/pollo-campero-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 97
+Currently on https://www.fastfoodmenuprices.com/primo-hoagies-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 98
+Currently on https://www.fastfoodmenuprices.com/red-mango-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 99
+Currently on https://www.fastfoodmenuprices.com/round-table-pizza-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 100
+Currently on https://www.fastfoodmenuprices.com/saladworks-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 101
+Currently on https://www.fastfoodmenuprices.com/schlotzskys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 102
+Currently on https://www.fastfoodmenuprices.com/sheetz-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 103
+Currently on https://www.fastfoodmenuprices.com/smoothie-king-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 104
+Currently on https://www.fastfoodmenuprices.com/sweet-frog-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 105
+Currently on https://www.fastfoodmenuprices.com/taco-bueno-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 106
+Currently on https://www.fastfoodmenuprices.com/taco-casa-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 107
+Currently on https://www.fastfoodmenuprices.com/taco-time-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 108
+Currently on https://www.fastfoodmenuprices.com/toppers-pizza-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 109
+Currently on https://www.fastfoodmenuprices.com/tropical-smoothie-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 110
+Currently on https://www.fastfoodmenuprices.com/waba-grill-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 111
+Currently on https://www.fastfoodmenuprices.com/which-wich-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 112
+Currently on https://www.fastfoodmenuprices.com/yogurtland-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 113
+Currently on https://www.fastfoodmenuprices.com/zoup-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 114
+Currently on https://www.fastfoodmenuprices.com/chipotle-catering-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 115
+Currently on https://www.fastfoodmenuprices.com/qdoba-catering-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.getresponse.com/permission-seal?lang=en.
+parsed page
+dropdown not found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/23-simple-fast-food-hacks-that-will-change-your-life/.
+parsed page
+dropdown not found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/healthy-fast-food-chains/.
+parsed page
+dropdown not found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/delivery-fast-food/.
+parsed page
+dropdown not found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/best-places-for-every-craving/.
+parsed page
+dropdown not found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/12-healthy-fast-food-options/.
+parsed page
+dropdown not found
+more links found
+number of output data: 116
+Currently on /privacy-policy/.
+invalid url
+number of output data: 116
+Currently on /.
+invalid url
+number of output data: 116
+Currently on None.
+invalid url
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/.
+parsed page
+dropdown not found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/amys-drive-through-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/arbys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/bob-evans-farmhouse-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/bonefish-grill-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/captain-ds-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/cheddars-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/chilis-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/churchs-chicken-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/cracker-barrel-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/dairy-queen-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/dominos-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/el-pollo-loco-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/five-guys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/hardees-carls-jr-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/ihop-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/jack-in-the-box-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/kfc-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/little-caesars-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/mcdonalds-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/outback-steakhouse-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/panera-bread-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/papa-johns-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/pei-wei-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/pollo-tropical-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/qdoba-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/raising-canes-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 116
+Currently on https://www.fastfoodmenuprices.com/red-lobster-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 117
+Currently on https://www.fastfoodmenuprices.com/sonic-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 118
+Currently on https://www.fastfoodmenuprices.com/steak-n-shake-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 119
+Currently on https://www.fastfoodmenuprices.com/taco-bell-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 120
+Currently on https://www.fastfoodmenuprices.com/tim-hortons-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 121
+Currently on https://www.fastfoodmenuprices.com/whataburger-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 122
+Currently on https://www.fastfoodmenuprices.com/wingstop-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 123
+Currently on #.
+invalid url
+number of output data: 123
+Currently on https://www.fastfoodmenuprices.com/burger-king-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 123
+Currently on https://www.fastfoodmenuprices.com/five-guys-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 123
+Currently on https://www.fastfoodmenuprices.com/kfc-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 123
+Currently on https://www.fastfoodmenuprices.com/sonic-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 123
+Currently on https://www.fastfoodmenuprices.com/subway-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 123
+Currently on https://www.fastfoodmenuprices.com/wendys-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 123
+Currently on #.
+invalid url
+number of output data: 123
+Currently on https://www.fastfoodmenuprices.com/burger-king-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 124
+Currently on https://www.fastfoodmenuprices.com/checkers-rallys-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 125
+Currently on https://www.fastfoodmenuprices.com/chipotle-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 126
+Currently on https://www.fastfoodmenuprices.com/culvers-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 127
+Currently on https://www.fastfoodmenuprices.com/dairy-queen-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 127
+Currently on https://www.fastfoodmenuprices.com/dominos-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 127
+Currently on https://www.fastfoodmenuprices.com/el-pollo-loco-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 127
+Currently on https://www.fastfoodmenuprices.com/hardees-carls-jr-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 127
+Currently on https://www.fastfoodmenuprices.com/ihop-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 128
+Currently on https://www.fastfoodmenuprices.com/jack-in-the-box-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 129
+Currently on https://www.fastfoodmenuprices.com/kfc-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 130
+Currently on https://www.fastfoodmenuprices.com/mcdonalds-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 131
+Currently on https://www.fastfoodmenuprices.com/panera-bread-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 132
+Currently on https://www.fastfoodmenuprices.com/pizza-hut-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 133
+Currently on #.
+invalid url
+number of output data: 133
+Currently on https://www.fastfoodmenuprices.com/raising-canes-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 133
+Currently on https://www.fastfoodmenuprices.com/red-lobster-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 134
+Currently on https://www.fastfoodmenuprices.com/starbucks-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 135
+Currently on https://www.fastfoodmenuprices.com/steak-n-shake-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 136
+Currently on https://www.fastfoodmenuprices.com/taco-bell-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 136
+Currently on https://www.fastfoodmenuprices.com/tim-hortons-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 136
+Currently on https://www.fastfoodmenuprices.com/whataburger-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 136
+Currently on https://www.fastfoodmenuprices.com/wingstop-nutrition.
+parsed page
+dropdown found
+more links found
+number of output data: 136
+Currently on https://www.fastfoodmenuprices.com/all-restaurants/.
+parsed page
+dropdown not found
+more links found
+number of output data: 136
+Currently on #.
+invalid url
+number of output data: 136
+Currently on https://www.fastfoodmenuprices.com/order-kfc-menu-specials-best-value-money/.
+parsed page
+dropdown not found
+more links found
+number of output data: 136
+Currently on https://www.fastfoodmenuprices.com/pick-the-kfc-5-fill-ups-for-filling-yet-affordable-meals/.
+parsed page
+dropdown not found
+more links found
+number of output data: 136
+Currently on https://www.fastfoodmenuprices.com/get-these-kfc-menu-deals-now/.
+parsed page
+dropdown not found
+more links found
+number of output data: 136
+Currently on https://www.fastfoodmenuprices.com/history-of-burger-king/.
+parsed page
+dropdown not found
+more links found
+number of output data: 136
+Currently on https://www.fastfoodmenuprices.com/vegetarian-fast-food-options/.
+parsed page
+dropdown not found
+more links found
+number of output data: 136
+Currently on https://www.fastfoodmenuprices.com/arbys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 136
+Currently on https://www.fastfoodmenuprices.com/hardees-carls-jr-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 137
+Currently on https://www.fastfoodmenuprices.com/chick-fil-a-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 138
+Currently on https://www.fastfoodmenuprices.com/churchs-chicken-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 138
+Currently on https://www.fastfoodmenuprices.com/dominos-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 138
+Currently on https://www.fastfoodmenuprices.com/five-guys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 138
+Currently on https://www.fastfoodmenuprices.com/jack-in-the-box-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 138
+Currently on https://www.fastfoodmenuprices.com/kfc-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 138
+Currently on https://www.fastfoodmenuprices.com/little-caesars-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 138
+Currently on https://www.fastfoodmenuprices.com/panda-express-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 139
+Currently on https://www.fastfoodmenuprices.com/pizza-hut-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 140
+Currently on https://www.fastfoodmenuprices.com/checkers-rallys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 141
+Currently on https://www.fastfoodmenuprices.com/starbucks-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 141
+Currently on https://www.fastfoodmenuprices.com/taco-bell-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 141
+Currently on https://www.fastfoodmenuprices.com/whataburger-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 141
+Currently on https://www.fastfoodmenuprices.com/all-restaurants/.
+parsed page
+dropdown not found
+more links found
+number of output data: 141
+Currently on /privacy-policy/.
+invalid url
+number of output data: 141
+Currently on /.
+invalid url
+number of output data: 141
+Currently on https://www.fastfoodmenuprices.com/.
+parsed page
+dropdown not found
+more links found
+number of output data: 141
+Currently on https://www.fastfoodmenuprices.com/applebees-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 142
+Currently on https://www.fastfoodmenuprices.com/baskin-robbins-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 143
+Currently on https://www.fastfoodmenuprices.com/bojangles-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 144
+Currently on https://www.fastfoodmenuprices.com/burger-king-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 145
+Currently on https://www.fastfoodmenuprices.com/checkers-rallys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 146
+Currently on https://www.fastfoodmenuprices.com/chick-fil-a-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 146
+Currently on https://www.fastfoodmenuprices.com/chipotle-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 147
+Currently on https://www.fastfoodmenuprices.com/cold-stone-creamery-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 148
+Currently on https://www.fastfoodmenuprices.com/cracker-barrel-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 148
+Currently on https://www.fastfoodmenuprices.com/dairy-queen-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 148
+Currently on https://www.fastfoodmenuprices.com/dominos-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 148
+Currently on https://www.fastfoodmenuprices.com/el-pollo-loco-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 148
+Currently on https://www.fastfoodmenuprices.com/five-guys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 148
+Currently on https://www.fastfoodmenuprices.com/hardees-carls-jr-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 148
+Currently on None.
+invalid url
+number of output data: 148
+Currently on https://www.fastfoodmenuprices.com/in-n-out-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 149
+Currently on https://www.fastfoodmenuprices.com/jimmy-johns-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 150
+Currently on https://www.fastfoodmenuprices.com/krispy-kreme-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 151
+Currently on https://www.fastfoodmenuprices.com/long-john-silvers-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 152
+Currently on https://www.fastfoodmenuprices.com/olive-garden-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/panda-express-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on None.
+invalid url
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/papa-johns-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/pei-wei-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/pollo-tropical-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/qdoba-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/raising-canes-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/red-lobster-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/sonic-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/starbucks-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/subway-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/texas-roadhouse-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/wendys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/white-castle-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/zaxbys-prices/.
+parsed page
+dropdown found
+more links found
+number of output data: 153
+Currently on None.
+invalid url
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/applebees-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/chipotle-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/in-n-out-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 153
+Currently on https://www.fastfoodmenuprices.com/taco-bell-secret-menu/.
+parsed page
+dropdown not found
+more links found
+number of output data: 153
+opened links: ['#content', 'https://www.fastfoodmenuprices.com/', 'https://www.fastfoodmenuprices.com/applebees-prices/', 'https://www.fastfoodmenuprices.com/baskin-robbins-prices/', 'https://www.fastfoodmenuprices.com/bojangles-prices/', 'https://www.fastfoodmenuprices.com/burger-king-prices/', 'https://www.fastfoodmenuprices.com/checkers-rallys-prices/', 'https://www.fastfoodmenuprices.com/chick-fil-a-prices/', 'https://www.fastfoodmenuprices.com/chipotle-prices/', 'https://www.fastfoodmenuprices.com/cold-stone-creamery-prices/', 'https://www.fastfoodmenuprices.com/culvers-prices/', 'https://www.fastfoodmenuprices.com/del-taco-prices/', 'https://www.fastfoodmenuprices.com/dunkin-donuts-prices/', 'https://www.fastfoodmenuprices.com/firehouse-subs-prices/', 'https://www.fastfoodmenuprices.com/fuddruckers-prices/', 'https://www.fastfoodmenuprices.com/hooters-prices/', 'https://www.fastfoodmenuprices.com/in-n-out-prices/', 'https://www.fastfoodmenuprices.com/jimmy-johns-prices/', 'https://www.fastfoodmenuprices.com/krispy-kreme-prices/', 'https://www.fastfoodmenuprices.com/long-john-silvers-prices/', 'https://www.fastfoodmenuprices.com/olive-garden-prices/', 'https://www.fastfoodmenuprices.com/panda-express-prices/', 'https://www.fastfoodmenuprices.com/p-f-changs-prices/', 'https://www.fastfoodmenuprices.com/papa-murphys-prices/', 'https://www.fastfoodmenuprices.com/pizza-hut-prices/', 'https://www.fastfoodmenuprices.com/popeyes-prices/', 'https://www.fastfoodmenuprices.com/quiznos-prices/', 'https://www.fastfoodmenuprices.com/red-lobster-prices/', 'https://www.fastfoodmenuprices.com/sonic-prices/', 'https://www.fastfoodmenuprices.com/steak-n-shake-prices/', 'https://www.fastfoodmenuprices.com/taco-bell-prices/', 'https://www.fastfoodmenuprices.com/tim-hortons-prices/', 'https://www.fastfoodmenuprices.com/whataburger-prices/', 'https://www.fastfoodmenuprices.com/wingstop-prices/', '#', 'https://www.fastfoodmenuprices.com/burger-king-secret-menu/', 'https://www.fastfoodmenuprices.com/five-guys-secret-menu/', 'https://www.fastfoodmenuprices.com/kfc-secret-menu/', 'https://www.fastfoodmenuprices.com/sonic-secret-menu/', 'https://www.fastfoodmenuprices.com/subway-secret-menu/', 'https://www.fastfoodmenuprices.com/wendys-secret-menu/', 'https://www.fastfoodmenuprices.com/burger-king-nutrition', 'https://www.fastfoodmenuprices.com/checkers-rallys-nutrition', 'https://www.fastfoodmenuprices.com/chipotle-nutrition', 'https://www.fastfoodmenuprices.com/culvers-nutrition', 'https://www.fastfoodmenuprices.com/del-taco-nutrition', 'https://www.fastfoodmenuprices.com/dunkin-donuts-nutrition', 'https://www.fastfoodmenuprices.com/five-guys-nutrition', 'https://www.fastfoodmenuprices.com/ihop-nutrition', 'https://www.fastfoodmenuprices.com/jack-in-the-box-nutrition', 'https://www.fastfoodmenuprices.com/kfc-nutrition', 'https://www.fastfoodmenuprices.com/mcdonalds-nutrition', 'https://www.fastfoodmenuprices.com/panera-bread-nutrition', 'https://www.fastfoodmenuprices.com/pizza-hut-nutrition', 'https://www.fastfoodmenuprices.com/qdoba-nutrition', 'https://www.fastfoodmenuprices.com/red-lobster-nutrition', 'https://www.fastfoodmenuprices.com/starbucks-nutrition', 'https://www.fastfoodmenuprices.com/steak-n-shake-nutrition', 'https://www.fastfoodmenuprices.com/texas-roadhouse-nutrition', 'https://www.fastfoodmenuprices.com/wendys-nutrition', 'https://www.fastfoodmenuprices.com/white-castle-nutrition', 'https://www.fastfoodmenuprices.com/zaxbys-nutrition', 'https://www.fastfoodmenuprices.com/au-bon-pain-prices/', 'https://www.fastfoodmenuprices.com/bahama-bucks-prices/', 'https://www.fastfoodmenuprices.com/ben-jerrys-prices/', 'https://www.fastfoodmenuprices.com/blaze-pizza-prices/', 'https://www.fastfoodmenuprices.com/bobbys-burger-palace-prices/', 'https://www.fastfoodmenuprices.com/braums-prices/', 'https://www.fastfoodmenuprices.com/brusters-prices/', 'https://www.fastfoodmenuprices.com/burgerfi-prices/', 'https://www.fastfoodmenuprices.com/cafe-rio-prices/', 'https://www.fastfoodmenuprices.com/caribou-coffee-prices/', 'https://www.fastfoodmenuprices.com/cherry-berry-prices/', 'https://www.fastfoodmenuprices.com/chicken-salad-chick-prices/', 'https://www.fastfoodmenuprices.com/cookout-prices/', 'https://www.fastfoodmenuprices.com/cosi-prices/', 'https://www.fastfoodmenuprices.com/donatos-pizza-prices/', 'https://www.fastfoodmenuprices.com/elevation-burger-prices/', 'https://www.fastfoodmenuprices.com/fatburger-prices/', 'https://www.fastfoodmenuprices.com/flame-broiler-prices/', 'https://www.fastfoodmenuprices.com/freddys-prices/', 'https://www.fastfoodmenuprices.com/freshii-prices/', 'https://www.fastfoodmenuprices.com/godfathers-pizza-prices/', 'https://www.fastfoodmenuprices.com/the-habit-burger-prices/', 'https://www.fastfoodmenuprices.com/hungry-howies-prices/', 'https://www.fastfoodmenuprices.com/jamba-juice-prices/', 'https://www.fastfoodmenuprices.com/jets-pizza-prices/', 'https://www.fastfoodmenuprices.com/johnny-rockets-prices/', 'https://www.fastfoodmenuprices.com/krystal-prices/', 'https://www.fastfoodmenuprices.com/lions-choice-prices/', 'https://www.fastfoodmenuprices.com/marble-slab-creamery-prices/', 'https://www.fastfoodmenuprices.com/mcalisters-deli-prices/', 'https://www.fastfoodmenuprices.com/moes-prices/', 'https://www.fastfoodmenuprices.com/mountain-mikes-pizza-prices/', 'https://www.fastfoodmenuprices.com/nothing-bundt-cakes-prices/', 'https://www.fastfoodmenuprices.com/orange-leaf-prices/', 'https://www.fastfoodmenuprices.com/pdq-prices/', 'https://www.fastfoodmenuprices.com/peter-piper-pizza-prices/', 'https://www.fastfoodmenuprices.com/philly-pretzel-factory-prices/', 'https://www.fastfoodmenuprices.com/pieology-prices/', 'https://www.fastfoodmenuprices.com/pita-pit-prices/', 'https://www.fastfoodmenuprices.com/pizza-inn-prices/', 'https://www.fastfoodmenuprices.com/pizza-ranch-prices/', 'https://www.fastfoodmenuprices.com/planet-smoothie-prices/', 'https://www.fastfoodmenuprices.com/potbelly-prices/', 'https://www.fastfoodmenuprices.com/project-pie-prices/', 'https://www.fastfoodmenuprices.com/robeks-prices/', 'https://www.fastfoodmenuprices.com/rubios-prices/', 'https://www.fastfoodmenuprices.com/sbarro-prices/', 'https://www.fastfoodmenuprices.com/shake-shack-prices/', 'https://www.fastfoodmenuprices.com/smashburger-prices/', 'https://www.fastfoodmenuprices.com/sub-zero-ice-cream-prices/', 'https://www.fastfoodmenuprices.com/sweetgreen-prices/', 'https://www.fastfoodmenuprices.com/taco-cabana-prices/', 'https://www.fastfoodmenuprices.com/taco-johns-prices/', 'https://www.fastfoodmenuprices.com/tcby-prices/', 'https://www.fastfoodmenuprices.com/togos-prices/', 'https://www.fastfoodmenuprices.com/tutti-frutti-prices/', 'https://www.fastfoodmenuprices.com/wawa-prices/', 'https://www.fastfoodmenuprices.com/wienerschnitzel-prices/', 'https://www.fastfoodmenuprices.com/zoes-kitchen-prices/', 'https://www.fastfoodmenuprices.com/chick-fil-a-catering-prices/', 'https://www.fastfoodmenuprices.com/panera-bread-catering-prices/', 'https://www.fastfoodmenuprices.com/subway-catering-prices/', 'https://www.fastfoodmenuprices.com/order-kfc-menu-specials-best-value-money/', 'https://www.fastfoodmenuprices.com/pick-the-kfc-5-fill-ups-for-filling-yet-affordable-meals/', 'https://www.fastfoodmenuprices.com/get-these-kfc-menu-deals-now/', 'https://www.fastfoodmenuprices.com/history-of-burger-king/', 'https://www.fastfoodmenuprices.com/vegetarian-fast-food-options/', '/about-us/', '/contact-us/', 'https://www.fastfoodmenuprices.com', '#content', 'https://www.fastfoodmenuprices.com/', 'https://www.fastfoodmenuprices.com/applebees-prices/', 'https://www.fastfoodmenuprices.com/baskin-robbins-prices/', 'https://www.fastfoodmenuprices.com/bojangles-prices/', 'https://www.fastfoodmenuprices.com/burger-king-prices/', 'https://www.fastfoodmenuprices.com/checkers-rallys-prices/', 'https://www.fastfoodmenuprices.com/chick-fil-a-prices/', 'https://www.fastfoodmenuprices.com/chipotle-prices/', 'https://www.fastfoodmenuprices.com/cold-stone-creamery-prices/', 'https://www.fastfoodmenuprices.com/culvers-prices/', 'https://www.fastfoodmenuprices.com/del-taco-prices/', 'https://www.fastfoodmenuprices.com/dunkin-donuts-prices/', 'https://www.fastfoodmenuprices.com/firehouse-subs-prices/', 'https://www.fastfoodmenuprices.com/fuddruckers-prices/', 'https://www.fastfoodmenuprices.com/hooters-prices/', 'https://www.fastfoodmenuprices.com/in-n-out-prices/', 'https://www.fastfoodmenuprices.com/jimmy-johns-prices/', 'https://www.fastfoodmenuprices.com/krispy-kreme-prices/', 'https://www.fastfoodmenuprices.com/long-john-silvers-prices/', 'https://www.fastfoodmenuprices.com/olive-garden-prices/', 'https://www.fastfoodmenuprices.com/panda-express-prices/', 'https://www.fastfoodmenuprices.com/p-f-changs-prices/', 'https://www.fastfoodmenuprices.com/papa-murphys-prices/', 'https://www.fastfoodmenuprices.com/pizza-hut-prices/', 'https://www.fastfoodmenuprices.com/popeyes-prices/', 'https://www.fastfoodmenuprices.com/quiznos-prices/', 'https://www.fastfoodmenuprices.com/checkers-rallys-prices/', 'https://www.fastfoodmenuprices.com/red-robin-prices/', 'https://www.fastfoodmenuprices.com/starbucks-prices/', 'https://www.fastfoodmenuprices.com/subway-prices/', 'https://www.fastfoodmenuprices.com/texas-roadhouse-prices/', 'https://www.fastfoodmenuprices.com/wendys-prices/', 'https://www.fastfoodmenuprices.com/white-castle-prices/', 'https://www.fastfoodmenuprices.com/zaxbys-prices/', 'https://www.fastfoodmenuprices.com/applebees-secret-menu/', 'https://www.fastfoodmenuprices.com/chipotle-secret-menu/', 'https://www.fastfoodmenuprices.com/in-n-out-secret-menu/', 'https://www.fastfoodmenuprices.com/taco-bell-secret-menu/', 'https://www.fastfoodmenuprices.com/starbucks-secret-menu/', 'https://www.fastfoodmenuprices.com/whataburger-secret-menu/', '#', 'https://www.fastfoodmenuprices.com/bojangles-nutrition', 'https://www.fastfoodmenuprices.com/captain-ds-nutrition', 'https://www.fastfoodmenuprices.com/chick-fil-a-nutrition', 'https://www.fastfoodmenuprices.com/churchs-chicken-nutrition', '#', 'https://www.fastfoodmenuprices.com/del-taco-nutrition', 'https://www.fastfoodmenuprices.com/dunkin-donuts-nutrition', 'https://www.fastfoodmenuprices.com/five-guys-nutrition', '#', 'https://www.fastfoodmenuprices.com/in-n-out-nutrition', 'https://www.fastfoodmenuprices.com/jimmy-johns-nutrition', 'https://www.fastfoodmenuprices.com/little-caesars-nutrition', 'https://www.fastfoodmenuprices.com/panda-express-nutrition', 'https://www.fastfoodmenuprices.com/papa-johns-nutrition', 'https://www.fastfoodmenuprices.com/popeyes-nutrition', 'https://www.fastfoodmenuprices.com/qdoba-nutrition', 'https://www.fastfoodmenuprices.com/checkers-rallys-nutrition', 'https://www.fastfoodmenuprices.com/sonic-nutrition', 'https://www.fastfoodmenuprices.com/subway-nutrition', '#', 'https://www.fastfoodmenuprices.com/texas-roadhouse-nutrition', 'https://www.fastfoodmenuprices.com/wendys-nutrition', 'https://www.fastfoodmenuprices.com/white-castle-nutrition', 'https://www.fastfoodmenuprices.com/zaxbys-nutrition', 'https://www.fastfoodmenuprices.com/', 'https://www.getresponse.com/permission-seal?lang=en', 'https://www.fastfoodmenuprices.com/23-simple-fast-food-hacks-that-will-change-your-life/', 'https://www.fastfoodmenuprices.com/healthy-fast-food-chains/', 'https://www.fastfoodmenuprices.com/delivery-fast-food/', 'https://www.fastfoodmenuprices.com/best-places-for-every-craving/', 'https://www.fastfoodmenuprices.com/12-healthy-fast-food-options/', 'https://www.fastfoodmenuprices.com/burger-king-prices/', 'https://www.fastfoodmenuprices.com/checkers-rallys-prices/', 'https://www.fastfoodmenuprices.com/chipotle-prices/', 'https://www.fastfoodmenuprices.com/dairy-queen-prices/', 'https://www.fastfoodmenuprices.com/dunkin-donuts-prices/', 'https://www.fastfoodmenuprices.com/hardees-carls-jr-prices/', 'https://www.fastfoodmenuprices.com/jimmy-johns-prices/', 'https://www.fastfoodmenuprices.com/krispy-kreme-prices/', 'https://www.fastfoodmenuprices.com/mcdonalds-prices/', 'https://www.fastfoodmenuprices.com/panera-bread-prices/', 'https://www.fastfoodmenuprices.com/popeyes-prices/', 'https://www.fastfoodmenuprices.com/sonic-prices/', 'https://www.fastfoodmenuprices.com/subway-prices/', 'https://www.fastfoodmenuprices.com/wendys-prices/', 'https://www.fastfoodmenuprices.com/white-castle-prices/', '/about-us/', '/contact-us/', 'https://www.fastfoodmenuprices.com', 'https://www.fastfoodmenuprices.com/amys-drive-through-prices/', 'https://www.fastfoodmenuprices.com/arbys-prices/', 'https://www.fastfoodmenuprices.com/bob-evans-farmhouse-prices/', 'https://www.fastfoodmenuprices.com/bonefish-grill-prices/', 'https://www.fastfoodmenuprices.com/captain-ds-prices/', 'https://www.fastfoodmenuprices.com/cheddars-prices/', 'https://www.fastfoodmenuprices.com/chilis-prices/', 'https://www.fastfoodmenuprices.com/churchs-chicken-prices/', None, 'https://www.fastfoodmenuprices.com/culvers-prices/', 'https://www.fastfoodmenuprices.com/del-taco-prices/', 'https://www.fastfoodmenuprices.com/dunkin-donuts-prices/', 'https://www.fastfoodmenuprices.com/firehouse-subs-prices/', 'https://www.fastfoodmenuprices.com/fuddruckers-prices/', 'https://www.fastfoodmenuprices.com/hooters-prices/', 'https://www.fastfoodmenuprices.com/ihop-prices/', 'https://www.fastfoodmenuprices.com/jack-in-the-box-prices/', 'https://www.fastfoodmenuprices.com/kfc-prices/', 'https://www.fastfoodmenuprices.com/little-caesars-prices/', 'https://www.fastfoodmenuprices.com/mcdonalds-prices/', 'https://www.fastfoodmenuprices.com/outback-steakhouse-prices/', 'https://www.fastfoodmenuprices.com/panera-bread-prices/', 'https://www.fastfoodmenuprices.com/p-f-changs-prices/', 'https://www.fastfoodmenuprices.com/papa-murphys-prices/', 'https://www.fastfoodmenuprices.com/pizza-hut-prices/', 'https://www.fastfoodmenuprices.com/popeyes-prices/', 'https://www.fastfoodmenuprices.com/quiznos-prices/', 'https://www.fastfoodmenuprices.com/checkers-rallys-prices/', 'https://www.fastfoodmenuprices.com/red-robin-prices/', None, 'https://www.fastfoodmenuprices.com/steak-n-shake-prices/', 'https://www.fastfoodmenuprices.com/taco-bell-prices/', 'https://www.fastfoodmenuprices.com/tim-hortons-prices/', 'https://www.fastfoodmenuprices.com/whataburger-prices/', 'https://www.fastfoodmenuprices.com/wingstop-prices/', None, '#', 'https://www.fastfoodmenuprices.com/burger-king-secret-menu/', 'https://www.fastfoodmenuprices.com/five-guys-secret-menu/', 'https://www.fastfoodmenuprices.com/kfc-secret-menu/', 'https://www.fastfoodmenuprices.com/sonic-secret-menu/']
+Traceback (most recent call last):
+  File "C:\Users\Collin Lee\Documents\Atom\Nousot\EnergyDataProject\scraping_program.py", line 150, in <module>
+    print(f'output data: {output_data}')
+  File "C:\ProgramData\Anaconda3\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2033' in position 76178: character maps to <undefined>
